@@ -1,0 +1,7 @@
+Перед тем как работать нужно писать:
+git pull
+
+После того как паработал нужно писать:
+git add -A
+git commit -m "Documents fot study"
+git push
