@@ -5,10 +5,10 @@ Login: ergeshov.d@edu.spbstu.ru
 Parol: Peqpud4
 
 Login: ergeshov.m@edu.spbstu.ru
-Parol: 
+Parol: du3CiRov
 
-Login:
-Parol:
+Login: dzhumaniyazov2.b@edu.spbstu.ru
+Parol: Pi5meLi
 
-Login: 
-Parol: 
+Login: dzhummanov.m@edu.spbstu.ru
+Parol: Luhhig9
