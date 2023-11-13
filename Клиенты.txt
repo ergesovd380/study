@@ -12,3 +12,9 @@ Password: Pi5meLi
 
 Login: dzhummanov.m@edu.spbstu.ru
 Password: Luhhig9
+
+Login: ibragimov.i@edu.spbstu.ru
+Password: 123456
+
+Login:charyeva.o@edu.spbstu.ru
+Password: 8rg*WwpdCiuTzPm
