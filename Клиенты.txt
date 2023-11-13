@@ -1,14 +1,14 @@
 Login: achilova.a@edu.spbstu.ru
-Parol: Qikab6Nun
+Password: Qikab6Nun
 
 Login: ergeshov.d@edu.spbstu.ru
-Parol: Peqpud4
+Password: Peqpud4
 
 Login: ergeshov.m@edu.spbstu.ru
-Parol: du3CiRov
+Password: du3CiRov
 
 Login: dzhumaniyazov2.b@edu.spbstu.ru
-Parol: Pi5meLi
+Password: Pi5meLi
 
 Login: dzhummanov.m@edu.spbstu.ru
-Parol: Luhhig9
+Password: Luhhig9
