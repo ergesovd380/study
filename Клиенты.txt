@@ -2,7 +2,7 @@ Login: achilova.a@edu.spbstu.ru
 Password: Qikab6Nun
 
 Login: ergeshov.d@edu.spbstu.ru
-Password: Peqpud4
+Password: peqPud4
 
 Login: ergeshov.m@edu.spbstu.ru
 Password: du3CiRov
