@@ -18,3 +18,6 @@ Password: 123456
 
 Login:charyeva.o@edu.spbstu.ru
 Password: 8rg*WwpdCiuTzPm
+
+Login:zhumaniyazov.sh@edu.spbstu.ru
+Password: ten8Core
