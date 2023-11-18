@@ -21,3 +21,6 @@ Password: 8rg*WwpdCiuTzPm
 
 Login: zhumaniyazov.sh@edu.spbstu.ru
 Password: ten8Core
+
+Login: atabaeva.o@edu.spbstu.ru
+Password: xaNob5wes
