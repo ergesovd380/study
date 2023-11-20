@@ -4,6 +4,7 @@ cd study
 git pull
 
 После того как паработал нужно писать:
+git status
 git add -A
 git commit -m "Documents fot study"
 git push
