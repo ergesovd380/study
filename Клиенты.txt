@@ -27,3 +27,6 @@ Password: xaNob5wes
 
 Login: dovladov.s@edu.spbstu.ru
 Password: hiRu6na
+
+Login: bajgeldiev.ya@edu.spbstu.ru
+password: dex5Xac
