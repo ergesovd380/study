@@ -13,20 +13,26 @@ Password: Pi5meLi
 Login: dzhummanov.m@edu.spbstu.ru
 Password: Luhhig9
 
-Login: ibragimov.i@edu.spbstu.ru
-Password: 123456
-
 Login:charyeva.o@edu.spbstu.ru
 Password: 8rg*WwpdCiuTzPm
-
-Login: zhumaniyazov.sh@edu.spbstu.ru
-Password: ten8Core
 
 Login: atabaeva.o@edu.spbstu.ru
 Password: xaNob5wes
 
-Login: dovladov.s@edu.spbstu.ru
-Password: hiRu6na
-
 Login: bajgeldiev.ya@edu.spbstu.ru
 password: dex5Xac
+
+Login: yazyeva.l@edu.spbstu.ru
+Password: Gako9pu
+
+Login: redzhepova.m@edu.spbstu.ru
+Password: muhaya98
+
+Login: ibragimov.i@edu.spbstu.ru
+Password: 123456
+
+Login: zhumaniyazov.sh@edu.spbstu.ru
+Password: ten8Core
+
+Login: dovladov.s@edu.spbstu.ru
+Password: hiRu6na
