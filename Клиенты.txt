@@ -28,6 +28,9 @@ Password: Gako9pu
 Login: redzhepova.m@edu.spbstu.ru
 Password: muhaya98
 
+Login: rozmetov.h@edu.spbstu.ru
+Password: Xivbul2
+
 Login: ibragimov.i@edu.spbstu.ru
 Password: 123456
 
