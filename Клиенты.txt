@@ -34,6 +34,9 @@ Password: Xivbul2
 Login: redzhepov.b@edu.spbstu.ru
 Password: Nofo2Tev
 
+Login: nedirov.v@edu.spbstu.ru
+Password: ru6BixTi
+
 Login: ibragimov.i@edu.spbstu.ru
 Password: 123456
 
