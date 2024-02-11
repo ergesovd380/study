@@ -4,15 +4,20 @@ Password: peqPud4
 Login: ergeshov.m@edu.spbstu.ru		g
 Password: du3CiRov
 
+<<<<<<< HEAD
 Login: achilova.a@edu.spbstu.ru
+=======
+Login: achilova.a@edu.spbstu.ru		D
+>>>>>>> 6a3b5d8bd355dac7d385c0d6ca6483cabe715d72
 Password: Qikab6Nun
 
-Login: dzhumaniyazov2.b@edu.spbstu.ru     g
+Login: dzhumaniyazov2.b@edu.spbstu.ru	D
 Password: Pi5meLi
 
-Login: dzhummanov.m@edu.spbstu.ru         g
+Login: dzhummanov.m@edu.spbstu.ru	D
 Password: Luhhig9
 
+<<<<<<< HEAD
 Login: charyeva.o@edu.spbstu.ru      g
 Password: 8rg*WwpdCiuTzPm
 
@@ -20,18 +25,34 @@ Login: atabaeva.o@edu.spbstu.ru
 Password: xaNob5wes
 
 Login: bajgeldiev.ya@edu.spbstu.ru	g
+=======
+Login:charyeva.o@edu.spbstu.ru	g	D
+Password: 8rg*WwpdCiuTzPm
+
+Login: atabaeva.o@edu.spbstu.ru		D
+Password: xaNob5wes
+
+Login: bajgeldiev.ya@edu.spbstu.ru	D
+>>>>>>> 6a3b5d8bd355dac7d385c0d6ca6483cabe715d72
 password: dex5Xac
 
-Login: yazyeva.l@edu.spbstu.ru       g
+Login: yazyeva.l@edu.spbstu.ru		D
 Password: Gako9pu
 
-Login: redzhepova.m@edu.spbstu.ru       g
+Login: redzhepova.m@edu.spbstu.ru	D
 Password: muhaya98
 
+<<<<<<< HEAD
 Login: nedirov.v@edu.spbstu.ru
 Password: ru6BixTi
 
 Login: rozmetov.h@edu.spbstu.ru		g
+=======
+Login: nedirov.v@edu.spbstu.ru		D
+Password: ru6BixTi
+
+Login: rozmetov.h@edu.spbstu.ru		D
+>>>>>>> 6a3b5d8bd355dac7d385c0d6ca6483cabe715d72
 Password: Xivbul2
 
 KCE нет
@@ -41,8 +62,8 @@ Password: Nofo2Tev
 Login: ibragimov.i@edu.spbstu.ru
 Password: 123456
 
-Login: zhumaniyazov.sh@edu.spbstu.ru
+Login: zhumaniyazov.sh@edu.spbstu.ru	D
 Password: ten8Core
 
-Login: dovladov.s@edu.spbstu.ru
+Login: dovladov.s@edu.spbstu.ru		D
 Password: hiRu6na
