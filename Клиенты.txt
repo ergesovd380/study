@@ -1,10 +1,10 @@
-Login: ergeshov.d@edu.spbstu.ru      g
+Login: ergeshov.d@edu.spbstu.ru
 Password: peqPud4
 
-Login: ergeshov.m@edu.spbstu.ru
+Login: ergeshov.m@edu.spbstu.ru		g
 Password: du3CiRov
 
-Login: achilova.a@edu.spbstu.ru    g
+Login: achilova.a@edu.spbstu.ru
 Password: Qikab6Nun
 
 Login: dzhumaniyazov2.b@edu.spbstu.ru     g
@@ -13,13 +13,13 @@ Password: Pi5meLi
 Login: dzhummanov.m@edu.spbstu.ru         g
 Password: Luhhig9
 
-Login:charyeva.o@edu.spbstu.ru      g
+Login: charyeva.o@edu.spbstu.ru      g
 Password: 8rg*WwpdCiuTzPm
 
-Login: atabaeva.o@edu.spbstu.ru        g
+Login: atabaeva.o@edu.spbstu.ru
 Password: xaNob5wes
 
-Login: bajgeldiev.ya@edu.spbstu.ru            Чагырмалы
+Login: bajgeldiev.ya@edu.spbstu.ru	g
 password: dex5Xac
 
 Login: yazyeva.l@edu.spbstu.ru       g
@@ -28,10 +28,10 @@ Password: Gako9pu
 Login: redzhepova.m@edu.spbstu.ru       g
 Password: muhaya98
 
-Login: nedirov.v@edu.spbstu.ru         g
+Login: nedirov.v@edu.spbstu.ru
 Password: ru6BixTi
 
-Login: rozmetov.h@edu.spbstu.ru         g
+Login: rozmetov.h@edu.spbstu.ru		g
 Password: Xivbul2
 
 KCE нет
