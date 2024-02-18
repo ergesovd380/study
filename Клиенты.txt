@@ -16,6 +16,14 @@ Login: rozmetov.h@edu.spbstu.ru
 Password: Xivbul2
 Tel: +7 960 263-84-51
 
+Login: yazyeva.l@edu.spbstu.ru
+Password: Gako9pu
+Tel: +7 904 608-83-33
+
+Login: sapaev.n@edu.spbstu.ru
+Password: sohKu8Hi
+Tel: +993 62 96-34-21
+
 // ИПМЭИТ
 Login: redzhepov.b@edu.spbstu.ru
 Password: Nofo2Tev
@@ -27,10 +35,6 @@ Password: Luhhig9
 
 Login: bajgeldiev.ya@edu.spbstu.ru
 password: dex5Xac
-
-Login: yazyeva.l@edu.spbstu.ru
-Password: Gako9pu
-Tel: +7 904 608-83-33
 
 Login: redzhepova.m@edu.spbstu.ru
 Password: muhaya98
