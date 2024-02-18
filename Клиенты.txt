@@ -4,10 +4,6 @@ Password: peqPud4
 Login: ergeshov.m@edu.spbstu.ru
 Password: du3CiRov
 
-Login: redzhepov.b@edu.spbstu.ru
-Password: Nofo2Tev
-Tel: +7 977 305-68-37
-
 Login: charyeva.o@edu.spbstu.ru
 Password: 8rg*WwpdCiuTzPm
 Tel: +7 921 793-15-16
@@ -19,6 +15,11 @@ Tel: +7 921 553-26-67
 Login: rozmetov.h@edu.spbstu.ru
 Password: Xivbul2
 Tel: +7 960 263-84-51
+
+// ИПМЭИТ
+Login: redzhepov.b@edu.spbstu.ru
+Password: Nofo2Tev
+Tel: +7 977 305-68-37
 
 	<!-- Пока не проходим -->
 Login: dzhummanov.m@edu.spbstu.ru
@@ -50,3 +51,4 @@ Password: Qikab6Nun
 Tel: +7 981 935-83-95
 
 +79253770963 -> Diana
+
