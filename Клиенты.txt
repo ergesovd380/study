@@ -12,13 +12,17 @@ Login: charyeva.o@edu.spbstu.ru
 Password: 8rg*WwpdCiuTzPm
 Tel: +7 921 793-15-16
 
-	<!-- Пока не проходим -->
-Login: dzhummanov.m@edu.spbstu.ru
-Password: Luhhig9
-
 Login: atabaeva.o@edu.spbstu.ru
 Password: xaNob5wes
 Tel: +7 921 553-26-67
+
+Login: rozmetov.h@edu.spbstu.ru
+Password: Xivbul2
+Tel: +7 960 263-84-51
+
+	<!-- Пока не проходим -->
+Login: dzhummanov.m@edu.spbstu.ru
+Password: Luhhig9
 
 Login: bajgeldiev.ya@edu.spbstu.ru
 password: dex5Xac
@@ -34,10 +38,6 @@ Tel: +7 926 098-66-84
 Login: nedirov.v@edu.spbstu.ru
 Password: ru6BixTi
 Tel: +7 911 998-67-86
-
-Login: rozmetov.h@edu.spbstu.ru
-Password: Xivbul2
-Tel: +7 960 263-84-51
 
 Login: ibragimov.i@edu.spbstu.ru
 Password: 123456
