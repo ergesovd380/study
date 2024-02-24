@@ -29,6 +29,14 @@ Login: redzhepov.b@edu.spbstu.ru
 Password: Nofo2Tev
 Tel: +7 977 305-68-37
 
+Login: ibragimov.i@edu.spbstu.ru
+Password: 123456
+
+//Физкулт привет//
+Login: yusupova.d@edu.spbstu.ru
+Password: cev4Mehoh
+Tel: +7 906 265-94-51
+
 	<!-- Пока не проходим -->
 Login: dzhummanov.m@edu.spbstu.ru
 Password: Luhhig9
@@ -43,9 +51,6 @@ Tel: +7 926 098-66-84
 Login: nedirov.v@edu.spbstu.ru
 Password: ru6BixTi
 Tel: +7 911 998-67-86
-
-Login: ibragimov.i@edu.spbstu.ru
-Password: 123456
 
 Login: dovladov.s@edu.spbstu.ru
 Password: hiRu6na
