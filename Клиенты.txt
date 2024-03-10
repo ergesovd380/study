@@ -34,6 +34,9 @@ Login: ergeshova.g@edu.spbstu.ru
 Password: WLjd@9#SemcMQqH
 
 // ИПМЭИТ
+Login: dovladov.s@edu.spbstu.ru
+Password: hiRu6na
+
 Login: redzhepov.b@edu.spbstu.ru
 Password: Nofo2Tev
 Tel: +7 977 305-68-37
@@ -63,8 +66,7 @@ Login: nedirov.v@edu.spbstu.ru
 Password: ru6BixTi
 Tel: +7 911 998-67-86
 
-Login: dovladov.s@edu.spbstu.ru
-Password: hiRu6na
+
 
 Login: achilova.a@edu.spbstu.ru
 Password: Qikab6Nun
