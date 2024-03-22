@@ -8,6 +8,10 @@ Login: charyeva.o@edu.spbstu.ru
 Password: 8rg*WwpdCiuTzPm
 Tel: +7 921 793-15-16
 
+Login: achilova.a@edu.spbstu.ru
+Password: Qikab6Nun
+Tel: +7 981 935-83-95
+
 Login: dzhummanov.m@edu.spbstu.ru
 Password: Luhhig9
 
@@ -33,6 +37,9 @@ Password: tiz4Mos
 Login: ergeshova.g@edu.spbstu.ru
 Password: WLjd@9#SemcMQqH
 
+madaminova.sh@edu.spbstu.ru
+neslihan
+
 // ИПМЭИТ
 Login: dovladov.s@edu.spbstu.ru
 Password: hiRu6na
@@ -53,6 +60,9 @@ Tel: +7 906 265-94-51
 durdyeva.a@edu.spbstu.ru
 ceQum3Kal
 
+//СДО//
+ibragimov.i
+Mi6sepVul
 	<!-- Пока не проходим -->
 
 Login: bajgeldiev.ya@edu.spbstu.ru
@@ -68,9 +78,6 @@ Tel: +7 911 998-67-86
 
 
 
-Login: achilova.a@edu.spbstu.ru
-Password: Qikab6Nun
-Tel: +7 981 935-83-95
 
 +79253770963 -> Diana
 
