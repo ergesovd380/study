@@ -1,10 +1,10 @@
-Login: ergeshov.d@edu.spbstu.ru
+Login: ergeshov.d@edu.spbstu.ru г
 Password: peqPud4
 
-Login: ergeshov.m@edu.spbstu.ru
+Login: ergeshov.m@edu.spbstu.ru г
 Password: du3CiRov
 
-Login: charyeva.o@edu.spbstu.ru
+Login: charyeva.o@edu.spbstu.ru г
 Password: 8rg*WwpdCiuTzPm
 Tel: +7 921 793-15-16
 
@@ -15,7 +15,7 @@ Tel: +7 981 935-83-95
 Login: dzhummanov.m@edu.spbstu.ru
 Password: Luhhig9
 
-Login: atabaeva.o@edu.spbstu.ru
+Login: atabaeva.o@edu.spbstu.ru г
 Password: xaNob5wes
 Tel: +7 921 553-26-67
 
@@ -23,7 +23,7 @@ Login: rozmetov.h@edu.spbstu.ru
 Password: Xivbul2
 Tel: +7 960 263-84-51
 
-Login: yazyeva.l@edu.spbstu.ru
+Login: yazyeva.l@edu.spbstu.ru г
 Password: Gako9pu
 Tel: +7 904 608-83-33
 
@@ -34,13 +34,13 @@ Tel: +993 62 96-34-21
 Login: atamuradova.d@edu.spbstu.ru
 Password: tiz4Mos
 
-Login: ergeshova.g@edu.spbstu.ru
+Login: ergeshova.g@edu.spbstu.ru амнисия
 Password: WLjd@9#SemcMQqH
 
 madaminova.sh@edu.spbstu.ru
 neslihan
 
-bajrakov.m@edu.spbstu.ru
+bajrakov.m@edu.spbstu.ru г
 gip2Wam
 
 // ИПМЭИТ
@@ -64,9 +64,12 @@ durdyeva.a@edu.spbstu.ru
 ceQum3Kal
 
 //история россии и тсп//
-Login: redzhepova.m@edu.spbstu.ru
+Login: redzhepova.m@edu.spbstu.ru г
 Password: muhaya98
 Tel: +7 926 098-66-84
+
+Login: hajtmedova.m@edu.spbstu.ru г
+parol: Kig6qizi
 
 //СДО//
 ibragimov.i
