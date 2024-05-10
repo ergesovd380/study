@@ -1,10 +1,10 @@
-Login: ergeshov.d@edu.spbstu.ru г
+Login: ergeshov.d@edu.spbstu.ru п
 Password: peqPud4
 
-Login: ergeshov.m@edu.spbstu.ru г
+Login: ergeshov.m@edu.spbstu.ru п
 Password: du3CiRov
 
-Login: charyeva.o@edu.spbstu.ru г
+Login: charyeva.o@edu.spbstu.ru п
 Password: 8rg*WwpdCiuTzPm
 Tel: +7 921 793-15-16
 
@@ -15,26 +15,26 @@ Tel: +7 981 935-83-95
 Login: dzhummanov.m@edu.spbstu.ru
 Password: Luhhig9
 
-Login: atabaeva.o@edu.spbstu.ru г
+Login: atabaeva.o@edu.spbstu.ru п
 Password: xaNob5wes
 Tel: +7 921 553-26-67
 
-Login: rozmetov.h@edu.spbstu.ru
+Login: rozmetov.h@edu.spbstu.ru отправ
 Password: Xivbul2
 Tel: +7 960 263-84-51
 
-Login: yazyeva.l@edu.spbstu.ru г
+Login: yazyeva.l@edu.spbstu.ru п
 Password: Gako9pu
 Tel: +7 904 608-83-33
 
-Login: sapaev.n@edu.spbstu.ru
+Login: sapaev.n@edu.spbstu.ru г
 Password: sohKu8Hi
 Tel: +993 62 96-34-21
 
-Login: atamuradova.d@edu.spbstu.ru
+Login: atamuradova.d@edu.spbstu.ru 
 Password: tiz4Mos
 
-Login: ergeshova.g@edu.spbstu.ru амнисия
+Login: ergeshova.g@edu.spbstu.ru п
 Password: WLjd@9#SemcMQqH
 
 madaminova.sh@edu.spbstu.ru
